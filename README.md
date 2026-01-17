@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajitha Bandapelly.</h1>
-<h4 align="center">I am a Multi-talented, Goal-driven Automation Engineer. I am successful at taking on diverse roles/tasks to meet tight deadlines. Proactive at optimizing systems to resolve issues quickly. Hands-on and analytical problem solver.</h4>
+<h4 align="center">I am a Multi-talented, Goal-driven Automation Engineer. I am Proactive at optimizing systems to resolve issues quickly and successful at taking on diverse roles/tasks to meet tight deadlines.</h4>
 
 - 🔭 I’m currently working on **Implementing CI/CD pipeline**
 
